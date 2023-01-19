@@ -1,14 +1,6 @@
-# My title
-- He**l**lo
-- Bye
+# Description
 
-Hello
+> Markdown is awesome! All your README.md are made in Markdown,
+> but do you know how GitHub are rendering them?
 
-I'm **a** text
-with __2 lines__
-
-((I will live in Caracas))
-
-But it's [[private]]
-
-So cool!
+**It’s time to code a Markdown to HTML!**
